@@ -1,4 +1,4 @@
-# Physics-Guided Semantic Control of AUVs Using Embedded Language Models for Real-Time Subsea Inspection
+# Physics-Guided Semantic Gating With Embedded Language Models for Real-Time AUV Control in Subsea Infrastructure Inspection
 
 Supplementary code for the manuscript "Physics-Guided Semantic Control of AUVs
 Using Embedded Language Models for Real-Time Subsea Inspection" (submitted to
